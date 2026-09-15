@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Private security report
+    url: https://github.com/AetherExile/AetherMTX-Community/security/advisories/new
+    about: Report a vulnerability privately. Do not publish exploit details in an Issue.
+  - name: Optional Aether Exile Discord
+    url: https://discord.gg/KNd66FXtvw
+    about: Builds, patch-status updates, showcases and community support. Discord is not required for downloads or features.
+  - name: Aether Exile website
+    url: https://www.aetherexile.com
+    about: Secondary product information.

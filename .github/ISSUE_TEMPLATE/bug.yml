@@ -1,0 +1,96 @@
+name: Bug report
+description: Report a reproducible AetherMTX Community Edition problem
+title: "[Bug] "
+labels:
+  - bug
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Do not attach game files, credentials or unredacted personal paths. Security issues belong in private vulnerability reporting.
+  - type: input
+    id: version
+    attributes:
+      label: Community Edition version
+      placeholder: 1.0.11
+    validations:
+      required: true
+  - type: input
+    id: sha256
+    attributes:
+      label: EXE SHA-256
+      description: Compare this with the exact GitHub Release before reporting.
+      placeholder: 79b36063d14f2472842e2ce6dab78217c224ca18fd45ec40e39ae8c8e8a165a7
+    validations:
+      required: true
+  - type: input
+    id: windows
+    attributes:
+      label: Windows version
+      placeholder: Windows 11 24H2
+    validations:
+      required: true
+  - type: dropdown
+    id: installation
+    attributes:
+      label: Game installation
+      options:
+        - Standalone GGG
+        - Steam
+        - Another unsupported layout
+    validations:
+      required: true
+  - type: dropdown
+    id: area
+    attributes:
+      label: Affected action
+      options:
+        - Startup
+        - Preview loading
+        - Apply
+        - Restore Original
+        - Search or selection
+        - Other interface behavior
+    validations:
+      required: true
+  - type: checkboxes
+    id: preconditions
+    attributes:
+      label: Preconditions
+      options:
+        - label: I downloaded the EXE from the official GitHub Release and verified its SHA-256.
+          required: true
+        - label: Path of Exile 2 and its launcher were closed during Apply or Restore.
+          required: true
+        - label: I have removed credentials, account data and unredacted personal paths from this report.
+          required: true
+  - type: textarea
+    id: error
+    attributes:
+      label: Exact error message
+      description: Paste only the relevant text. Redact personal paths.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Minimal reproduction steps
+      placeholder: |
+        1. Start Community Edition
+        2. Select ...
+        3. Choose ...
+        4. Observe ...
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected result
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: Actual result
+    validations:
+      required: true
