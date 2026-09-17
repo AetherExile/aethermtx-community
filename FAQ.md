@@ -18,7 +18,11 @@ No. Close Path of Exile 2 and its launcher before using Apply or Restore Origina
 
 ## What does it include?
 
-Community Edition includes 52 Official Looks, 43 complete armour cores and 279 optional Back Attachments. Apply and Restore are unlimited.
+Community Edition includes 52 Official Looks, 43 complete armour cores, 279 optional Back Attachments and 40 Skill Effects across all 8 current classes. Apply and Restore are unlimited.
+
+## How do Skill Effects work?
+
+Choose one effect in the Skill Effects browser and add it to the next complete look. The character must use the matching skill. Community Edition changes the local appearance but does not add cosmetic ownership to an account.
 
 ## Why is the EXE unsigned?
 
@@ -32,7 +36,7 @@ No such claim is made. This is an independent third-party tool that changes game
 
 ## What does Restore Original do?
 
-Restore Original removes the currently applied Community Edition look and returns the supported installation to its original appearance. Let the operation finish before launching the game.
+Restore Original removes the currently applied Community Edition combination and returns the supported installation to its original appearance. Let the operation finish before launching the game.
 
 ## What happens after a game update?
 
@@ -41,6 +45,10 @@ Do not assume an older release supports a new game build. Check the latest relea
 ## Is Discord required for support?
 
 No. The [Aether Exile Discord](https://discord.gg/KNd66FXtvw) is the main community hub for builds, patch-status updates, showcases and help, but GitHub Issues and direct Releases remain available without joining.
+
+## What is available beyond Community Edition?
+
+AetherMTX Free contains the complete supported offline catalogue with all 123 Skill Effects and custom profiles. AetherShift provides supported live cosmetic changes. Both are available through the optional Aether Exile community.
 
 ## Can I redistribute the EXE?
 

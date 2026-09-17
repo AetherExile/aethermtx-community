@@ -1,5 +1,28 @@
 # Changelog
 
+## 1.1.0
+
+Release status: published on GitHub Releases.
+
+### Added
+
+- 40 Skill Effects arranged into one curated collection for each of the 8 current classes.
+- Search by effect, required skill or collection.
+- Class filters, exact local previews and clear Requires skill labels.
+- One optional Skill Effect in the complete look Apply flow.
+
+### Improved
+
+- Apply Complete Look now handles the Official Look, optional Back Attachment and optional Skill Effect together.
+- Restore Original covers all three cosmetic layers in one operation.
+- Community Edition navigation and selected-item inspection for the expanded catalogue.
+
+### Safety
+
+- Skill Effects use the same closed-game, exact-build and recovery protections as the existing catalogue.
+- Repeated Apply rebuilds from the pristine installation state instead of stacking changes.
+- GGG standalone and Steam remain isolated and independently recoverable.
+
 ## 1.0.11
 
 Release status: published on GitHub Releases.

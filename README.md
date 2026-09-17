@@ -1,6 +1,6 @@
 [![AetherMTX Community Edition](assets/community-hero.png)](https://discord.gg/KNd66FXtvw)
 
-# 52 COMPLETE LOOKS · 279 BACK ATTACHMENTS
+# 52 COMPLETE LOOKS · 279 BACK ATTACHMENTS · 40 SKILL EFFECTS
 
 ## FREE COMMUNITY EDITION
 
@@ -8,17 +8,17 @@
 
 **Get builds, patch-status updates, showcases and support.** Discord is the main community hub, but it is not a technical requirement and never unlocks features.
 
-**[DOWNLOAD FROM GITHUB RELEASES](https://github.com/AetherExile/aethermtx-community/releases/latest)** · [Official website](https://www.aetherexile.com)
+**[DOWNLOAD VERSION 1.1.0](https://github.com/AetherExile/aethermtx-community/releases/download/v1.1.0/AetherMTX-Community-1.1.0.exe)** · [Release notes](https://github.com/AetherExile/aethermtx-community/releases/tag/v1.1.0) · [Official website](https://www.aetherexile.com)
 
-| 52 COMPLETE LOOKS | 279 BACK ATTACHMENTS | GGG + STEAM | WINDOWS X64 |
+| 52 COMPLETE LOOKS | 279 BACK ATTACHMENTS | 40 SKILL EFFECTS | 8 CLASS COLLECTIONS |
 | --- | --- | --- | --- |
-| SEARCH AND PREVIEWS | SIMPLE APPLY FLOW | RESTORE ORIGINAL | COMMUNITY SUPPORT |
+| GGG + STEAM | SEARCH AND PREVIEWS | RESTORE ORIGINAL | COMPLETELY FREE |
 
-![AetherMTX gallery with local previews and optional Back Attachment](assets/community-gallery.png)
+![AetherMTX gallery with complete looks, optional Back Attachments and Skill Effects](assets/community-gallery.png)
 
 This is the official download and documentation repository for AetherMTX Community Edition. The application is free to use and distributed as a compiled Windows application. It is not open source.
 
-Everything documented here refers specifically to Community Edition. Features and catalogs may differ between AetherMTX editions.
+Everything documented here refers specifically to Community Edition. Features and catalogues may differ between AetherMTX editions.
 
 ## Download and verify
 
@@ -28,23 +28,31 @@ Current release:
 
 | Field | Value |
 | --- | --- |
-| Version | `1.0.11` |
-| File | `AetherMTX-Community-1.0.11.exe` |
-| Size | `177553871` bytes |
-| SHA-256 | `79b36063d14f2472842e2ce6dab78217c224ca18fd45ec40e39ae8c8e8a165a7` |
+| Version | `1.1.0` |
+| File | `AetherMTX-Community-1.1.0.exe` |
+| Size | `177703887` bytes |
+| SHA-256 | `BBB1F1A48D5401B064FDBD0B9101830FF23D6876B5FE330802F52CAEB46F7D37` |
 | Signature | Not signed |
 | Platform | Windows x64 |
 | Game distribution | GGG standalone and Steam |
 
 ## What Community Edition includes
 
-- 52 Official Looks backed by 43 complete armour cores.
+- 52 complete Official Looks backed by 43 armour cores.
 - 279 optional Back Attachments in the same Apply flow.
-- Apply and Restore Original controls.
-- Search and visual previews.
-- No Discord requirement and no paid unlock.
+- 40 Skill Effects arranged into one curated collection for each current class.
+- Search by effect, required skill or collection, plus class filters and exact local previews.
+- One Skill Effect can be added to the selected complete look.
+- Unlimited Apply and Restore Original controls.
+- No account, login, license key, payment, subscription or Discord requirement.
 
-AetherMTX Community Edition supports both the standalone Grinding Gear Games client and Steam. The same catalog and Apply flow are available on either installation.
+A Skill Effect requires the matching skill. It does not add cosmetic ownership to an account. AetherMTX Community Edition supports both the standalone Grinding Gear Games client and Steam.
+
+## Skill Effects
+
+Version 1.1.0 adds 40 effects across Ranger, Huntress, Mercenary, Warrior, Monk, Witch, Sorceress and Druid.
+
+![AetherMTX Skill Effects browser with all eight class collections](assets/skill-effects.png)
 
 ## How it works
 
@@ -53,14 +61,22 @@ AetherMTX Community Edition supports both the standalone Grinding Gear Games cli
 3. Start AetherMTX Community Edition.
 4. Select the GGG or Steam installation you want to use if it is not detected.
 5. Choose an Official Look and, optionally, a Back Attachment.
-6. Select Apply and wait for it to finish.
-7. Launch the game, or use Restore Original whenever you want to undo the selected look.
+6. Open Skill Effects and add one compatible effect if wanted.
+7. Select Apply Complete Look and wait for it to finish.
+8. Launch the game, or use Restore Original whenever you want to undo the selected combination.
 
 Use a Community Edition release marked compatible with your current game version. Keep the application closed while the game is running, and close the game again before Apply or Restore.
 
-## See Community Edition
+## Continue with Aether Exile
 
-The gallery shows Official Looks and optional Back Attachments inside the AetherMTX interface.
+Community Edition is permanently free and complete as documented above.
+
+- **AetherMTX Free** contains the complete supported offline catalogue with all 123 Skill Effects and custom profiles.
+- **AetherShift** provides supported live cosmetic changes.
+
+[Join the optional Aether Exile community](https://discord.gg/KNd66FXtvw) to find both products, builds, showcases and support. Joining Discord never unlocks Community Edition features.
+
+## See Community Edition
 
 ### Optional Back Attachment preview
 
