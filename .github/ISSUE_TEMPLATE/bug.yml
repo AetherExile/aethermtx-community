@@ -12,7 +12,7 @@ body:
     id: version
     attributes:
       label: Community Edition version
-      placeholder: 1.1.0
+      placeholder: 1.1.1
     validations:
       required: true
   - type: input
@@ -20,7 +20,7 @@ body:
     attributes:
       label: EXE SHA-256
       description: Compare this with the exact GitHub Release before reporting.
-      placeholder: BBB1F1A48D5401B064FDBD0B9101830FF23D6876B5FE330802F52CAEB46F7D37
+      placeholder: 2E3EC1055D6B7CC6C05EBE9AB9A9BAEA87C3B50C031AF32463250D98FFFD79BF
     validations:
       required: true
   - type: input

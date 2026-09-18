@@ -45,7 +45,7 @@ Release executables and their checksums are uploaded only after final review and
 
 | File | Bytes | SHA-256 |
 | --- | ---: | --- |
-| `AetherMTX-Community-1.1.0.exe` | 177703887 | `bbb1f1a48d5401b064fdbd0b9101830ff23d6876b5fe330802f52caeb46f7d37` |
+| `AetherMTX-Community-1.1.1.exe` | 177814479 | `2e3ec1055d6b7cc6c05ebe9ab9a9baea87c3b50c031af32463250d98fffd79bf` |
 
 ## Review rule
 

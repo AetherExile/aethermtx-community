@@ -8,7 +8,7 @@
 
 **Get builds, patch-status updates, showcases and support.** Discord is the main community hub, but it is not a technical requirement and never unlocks features.
 
-**[DOWNLOAD VERSION 1.1.0](https://github.com/AetherExile/aethermtx-community/releases/download/v1.1.0/AetherMTX-Community-1.1.0.exe)** · [Release notes](https://github.com/AetherExile/aethermtx-community/releases/tag/v1.1.0) · [Official website](https://www.aetherexile.com)
+**[DOWNLOAD VERSION 1.1.1](https://github.com/AetherExile/aethermtx-community/releases/download/v1.1.1/AetherMTX-Community-1.1.1.exe)** · [Release notes](https://github.com/AetherExile/aethermtx-community/releases/tag/v1.1.0) · [Official website](https://www.aetherexile.com)
 
 | 52 COMPLETE LOOKS | 279 BACK ATTACHMENTS | 40 SKILL EFFECTS | 8 CLASS COLLECTIONS |
 | --- | --- | --- | --- |
@@ -20,6 +20,8 @@ This is the official download and documentation repository for AetherMTX Communi
 
 Everything documented here refers specifically to Community Edition. Features and catalogues may differ between AetherMTX editions.
 
+Version 1.1.1 is a compatibility and reliability hotfix. The free catalogue and features are unchanged from 1.1.0.
+
 ## Download and verify
 
 The Windows x64 download is available from GitHub Releases. Always compare the downloaded file with the checksum published for that exact release. Release assets are never stored in the Git repository.
@@ -28,10 +30,10 @@ Current release:
 
 | Field | Value |
 | --- | --- |
-| Version | `1.1.0` |
-| File | `AetherMTX-Community-1.1.0.exe` |
-| Size | `177703887` bytes |
-| SHA-256 | `BBB1F1A48D5401B064FDBD0B9101830FF23D6876B5FE330802F52CAEB46F7D37` |
+| Version | `1.1.1` |
+| File | `AetherMTX-Community-1.1.1.exe` |
+| Size | `177814479` bytes |
+| SHA-256 | `2E3EC1055D6B7CC6C05EBE9AB9A9BAEA87C3B50C031AF32463250D98FFFD79BF` |
 | Signature | Not signed |
 | Platform | Windows x64 |
 | Game distribution | GGG standalone and Steam |

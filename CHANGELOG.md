@@ -1,5 +1,17 @@
 # Changelog
 
+## 1.1.1
+
+Release status: published on GitHub Releases.
+
+### Improved
+
+- Compatibility and reliability on some Windows configurations and alongside other applications.
+- Resilience across routine game updates when the supported Community content remains compatible.
+
+### Unchanged
+
+- The free catalogue remains at 52 Official Looks, 279 optional Back Attachments and 40 Skill Effects across all 8 current classes.
 ## 1.1.0
 
 Release status: published on GitHub Releases.
